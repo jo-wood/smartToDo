@@ -13,7 +13,7 @@ Users are able to change a category of an item in case it was mis-categorized or
 
 Users are able to register, log in, log out and update their profile.
 
-This app was produced in collaboration with fellow Lighthouse labbers: [~Mythily]('https://github.com/mmythily') and [~Alex]('https://github.com/alex-ac2').
+This app was produced in collaboration with fellow Lighthouse labbers: [~Mythily](https://github.com/mmythily) and [~Alex](https://github.com/alex-ac2).
 
 ## Explore 'smartCat':
 
