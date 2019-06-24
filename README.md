@@ -23,7 +23,7 @@ Create a new account by clicking on the register link ('/register' route) from w
 
 Add a new ToDo! If the category set by the app is incorrect, use the drag and drop feature to move it to the approiate list. (Note: *functionality for the drop down re-categorizing menu not yet implemented*).
 
-!['Main List Page (logged in)'](https://github.com/jo-wood/tinyApp/blob/master/docs/main_lists_page.png)
+!['Main List Page (logged in)'](https://github.com/jo-wood/smartToDo/blob/master/docs/main_lists_page.png)
 
 ## Getting Started
 
