@@ -1,5 +1,6 @@
 node_modules/
 public/styles
+server/routes/secrets.js
 .env
 *.log
 *.sqlite3
